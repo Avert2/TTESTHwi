@@ -1,0 +1,3 @@
+0 8,12,15 * * * /root/collect_thedata.sh
+
+0 0 * * * /root/cleanup.sh
